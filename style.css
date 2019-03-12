@@ -28,13 +28,13 @@ img{
         margin-top: 20px;
 }
 .left{
-    width: 30%;
+    width: 40%;
     float: left;
     height: 1000px;
     
 }
 .right{
-    width: 70%;
+    width: 60%;
     height:400px;
     float: right;
     margin-top: 20px;
