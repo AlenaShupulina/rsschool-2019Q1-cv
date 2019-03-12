@@ -26,6 +26,7 @@ body{
 img{
         height:400px;
         margin-top: 20px;
+       
 }
 .left{
     width: 30%;
@@ -39,4 +40,7 @@ img{
     float: right;
     margin-top: 20px;
     background-color:  rgb(238, 234, 242);
+}
+p{
+    margin-left: 10px;
 }
