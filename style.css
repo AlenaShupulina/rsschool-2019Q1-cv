@@ -1,0 +1,42 @@
+body{
+    width: 1024px;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    }
+.resume{
+    width: 1024px;
+    height: 60px;
+    background-color:rgba(46, 20, 79, 0.5);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        }
+    h1{
+        color: rgb(238, 234, 242);
+        font-size: 45px;
+        font-family: 'Raleway', sans-serif;
+        text-align: center;
+    }
+    a{
+        text-decoration: none;
+        color: rgb(123, 58, 207);
+    }
+    a:hover {
+        color:rgb(22, 9, 39);
+        text-decoration: underline;
+    }
+img{
+        height:400px;
+        margin-top: 20px;
+}
+.left{
+    width: 30%;
+    float: left;
+    height: 1000px;
+    
+}
+.right{
+    width: 70%;
+    height:400px;
+    float: right;
+    margin-top: 20px;
+    background-color:  rgb(238, 234, 242);
+}
